@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    background-color:#A66253;
+    font-size:20px;
+}
+
+header{
+background-color: #BDD0D9;
+padding: 9px;
+}
+
+
+header a{
+background-color:#F2E2C4;
+padding: 5px;
+text-decoration: none;
+border-radius: 20px;
+}
+
+h1{
+color:#9cffff ;
+text-align:center ;
+border: 4px solid  ;
+border-radius:13px ;
+background-color:#7CA69A;
+}
+
+footer{
+  background-color: #C1B5AD; 
+  padding:5px;
+  border-radius: 20px;
+}
+
+footer p{
+background-color: #7CA69A;
+border-radius:20px ;
+}
+
+nav {
+    background-color:#D9AC84;
+    padding: 10px;
+    border-radius: 20px;
+    text-align:center ;
+    margin-top: 13px;
+}
+
+nav a{
+    text-decoration:none ;
+    color: rgb(179, 27, 27);
+
+}
+
+
+.goods{
+    background-color: #7CA69A;
+    border-radius: 15px;
+    text-align: center;
+    padding: 5px;
+}
+
